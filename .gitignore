@@ -36,3 +36,5 @@ orchestration/logs/
 .idea/
 .DS_Store
 Thumbs.db
+legacy_csv/
+*.tar.gz
